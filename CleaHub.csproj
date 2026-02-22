@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>CleaHub</PackageId>
+    <Version>1.0.0</Version> 
+    <Authors>Erhan</Authors> 
+    <Company>erbalkan</Company>
+    <Description>My Hub Project for .NET backend projects.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.3" />
+  </ItemGroup>
+
+</Project>
