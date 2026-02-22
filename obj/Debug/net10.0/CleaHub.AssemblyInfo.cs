@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("My Hub Project for .NET backend projects.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cce50e5e734a42d326b44bf298e9b247a4d50eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49428294d0b29a2352dd2913d3ad86c3570468d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleaHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleaHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
