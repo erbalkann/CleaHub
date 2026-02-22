@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CleaHub</id>
+    <version>1.0.0</version>
+    <authors>Erhan</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>My Hub Project for .NET backend projects.</description>
+    <repository type="git" url="https://github.com/erbalkann/CleaHub" commit="10284e32b35ba4da0b400d8cc8c9fe4695b0f8da" />
+    <dependencies>
+      <group targetFramework="net10.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\erbal\Desktop\CleaHub\bin\Release\net10.0\CleaHub.dll" target="lib\net10.0\CleaHub.dll" />
+  </files>
+</package>

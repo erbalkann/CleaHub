@@ -1,0 +1,13 @@
+C:\Users\erbal\Desktop\CleaHub\bin\Release\net10.0\CleaHub.deps.json
+C:\Users\erbal\Desktop\CleaHub\bin\Release\net10.0\CleaHub.dll
+C:\Users\erbal\Desktop\CleaHub\bin\Release\net10.0\CleaHub.pdb
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.csproj.AssemblyReference.cache
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.AssemblyInfoInputs.cache
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.AssemblyInfo.cs
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.csproj.CoreCompileInputs.cache
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.sourcelink.json
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.dll
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\refint\CleaHub.dll
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\CleaHub.pdb
+C:\Users\erbal\Desktop\CleaHub\obj\Release\net10.0\ref\CleaHub.dll

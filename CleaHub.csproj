@@ -13,6 +13,8 @@
     <Description>My Hub Project for .NET backend projects.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/erbalkann/CleaHub</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+
 
     
   </PropertyGroup>
